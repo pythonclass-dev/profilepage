@@ -73,8 +73,6 @@ padding:40px;
 	padding:0px 30px;
 	line-height:40px;
 	}
-	
-	
 .service{
 	text-align:center;
 	padding:50px;
@@ -109,11 +107,7 @@ background-size:cover;
 background:url(../images/srvc2.jpg);
 background-size:cover;
 	}	
-	
-	
-	
-	
-	
+
 .competencies{
 	line-height:50px;
 	border:solid 1px blue;
@@ -163,3 +157,13 @@ background-image:url(assets/images/1c.jpg);
 	font-size:35px;
 	border:solid 2px black;
 	}
+@media all and (max-width:750px){
+	
+.contact{
+	width:95%;
+	padding:10px;	
+	line-height:20px;
+border:solid 0px black;
+	font-size:20px;
+	}	
+}
